@@ -1,0 +1,27 @@
+model,material,fretboard,frets,elements
+st,alder,maple,21,humbuckers
+st,alder,maple,21,humbuckers
+st,lime,maple,22,single coil
+st,lime,maple,22,single coil
+st,alder,maple,24,single coil
+st,alder,maple,24,single coil
+st,alder,rosewood,24,single coil
+st,alder,rosewood,24,single coil
+st,maple,rosewood,24,single coil
+st,maple,rosewood,24,single coil
+lp,lime,rosewood,24,humbuckers
+lp,lime,rosewood,24,humbuckers
+lp,alder,rosewood,24,humbuckers
+lp,alder,rosewood,24,humbuckers
+lp,mahogany,rosewood,24,humbuckers
+lp,mahogany,rosewood,24,humbuckers
+lp,mahogany,rosewood,24,humbuckers
+lp,mahogany,rosewood,22,humbuckers
+lp,mahogany,rosewood,22,humbuckers
+lp,alder,ebony,24,humbuckers
+lp,lime,ebony,22,humbuckers
+lp,mahogany,ebony,22,humbuckers
+lp,mahogany,rosewood,22,humbuckers
+lp,mahogany,rosewood,22,humbuckers
+lp,lime,rosewood,22,single coil
+lp,lime,rosewood,23,single coil
