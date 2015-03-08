@@ -1,0 +1,101 @@
+Gender,City,Attended,Value
+girl,New York,Yes,0.991471679
+boy,London,No,0.980504239
+boy,Amsterdam,Yes,0.969144548
+boy,Amsterdam,No,0.968501747
+man,London,Yes,0.9386839
+boy,London,No,0.937629552
+man,Amsterdam,Yes,0.929065189
+girl,New York,No,0.92468373
+boy,London,Yes,0.923666855
+girl,Amsterdam,No,0.921561803
+boy,New York,No,0.918791586
+woman,Amsterdam,No,0.909363232
+boy,Amsterdam,Yes,0.897359155
+girl,New York,Yes,0.894856119
+man,New York,Yes,0.891269965
+woman,London,Yes,0.880886182
+girl,Amsterdam,Yes,0.879916169
+boy,London,Yes,0.877140039
+man,New York,No,0.864844774
+man,New York,No,0.860931801
+girl,London,No,0.823620251
+girl,Amsterdam,No,0.804902535
+woman,Amsterdam,No,0.78291062
+man,Amsterdam,Yes,0.775930694
+woman,Amsterdam,Yes,0.755055178
+girl,Amsterdam,Yes,0.751007003
+boy,New York,Yes,0.746493484
+woman,New York,Yes,0.729115789
+woman,London,No,0.72798398
+boy,London,Yes,0.715876084
+man,Amsterdam,Yes,0.690496982
+girl,New York,No,0.687677
+man,London,No,0.684985412
+man,Amsterdam,Yes,0.675636162
+boy,Amsterdam,No,0.67165153
+woman,New York,No,0.639111217
+woman,Amsterdam,Yes,0.633532919
+boy,New York,Yes,0.616823913
+man,London,No,0.597207477
+boy,New York,No,0.593839179
+woman,London,Yes,0.576099199
+girl,London,No,0.563623802
+woman,New York,Yes,0.552586424
+boy,New York,Yes,0.539748092
+boy,Amsterdam,Yes,0.537336075
+boy,London,Yes,0.526987959
+girl,London,No,0.525016148
+man,Amsterdam,No,0.513064148
+girl,New York,No,0.478915791
+woman,Amsterdam,No,0.454525498
+girl,London,Yes,0.453950869
+girl,Amsterdam,Yes,0.44918396
+boy,Amsterdam,No,0.448238912
+man,Amsterdam,No,0.437076496
+woman,New York,No,0.420310197
+woman,Amsterdam,No,0.405054598
+girl,New York,No,0.392302856
+girl,Amsterdam,No,0.391457672
+boy,Amsterdam,Yes,0.378435399
+man,Amsterdam,Yes,0.362523251
+boy,London,Yes,0.360567634
+woman,New York,No,0.34592988
+boy,New York,No,0.321778434
+woman,Amsterdam,No,0.317449629
+girl,Amsterdam,Yes,0.300239672
+man,Amsterdam,Yes,0.298635461
+girl,Amsterdam,No,0.296127998
+woman,London,No,0.292381209
+woman,London,No,0.273537872
+girl,Amsterdam,Yes,0.263101341
+man,Amsterdam,No,0.242276071
+woman,Amsterdam,No,0.238941144
+man,London,No,0.238895028
+boy,London,No,0.232947391
+woman,London,No,0.218379371
+boy,London,No,0.199453367
+girl,Amsterdam,No,0.18751099
+man,New York,Yes,0.172192676
+girl,Amsterdam,Yes,0.17122929
+woman,London,Yes,0.162608967
+man,Amsterdam,No,0.151422075
+boy,London,Yes,0.148155982
+boy,London,Yes,0.14796556
+man,London,No,0.142729857
+woman,London,No,0.132032674
+man,London,No,0.112172679
+girl,New York,Yes,0.109002227
+woman,New York,Yes,0.10229114
+girl,Amsterdam,No,0.086779976
+woman,London,No,0.082292214
+girl,New York,No,0.066064949
+girl,London,Yes,0.050492907
+boy,New York,No,0.048961702
+man,Amsterdam,Yes,0.04675647
+woman,Amsterdam,Yes,0.040656583
+man,New York,No,0.037227112
+woman,New York,No,0.020664261
+man,Amsterdam,No,0.019935035
+man,New York,No,0.019720952
+man,London,Yes,0.016198559
