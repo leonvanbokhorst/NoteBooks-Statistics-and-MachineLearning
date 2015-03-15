@@ -1,6 +1,6 @@
 gender,personality,work,happiness
 man,rude,no,not happy
 man,nice,no,not happy
-woman,rude,not,happy
+woman,rude,no,happy
 man,nice,yes,happy
 woman,nice,yes,happy
