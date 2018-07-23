@@ -1,5 +1,4 @@
-NoteBooks-Unsupervised-Learning
-===============================
+NoteBooks Statistics and Machine Learning
+=========================================
 
-Notebooks as used on
-http://unsupervised-learning.com
+Notebooks as published on unsupervised-learning.com (RIP).
